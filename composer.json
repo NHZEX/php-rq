@@ -1,5 +1,5 @@
 {
-    "name": "heureka/php-rq",
+    "name": "zxin/php-rq",
     "description": "Several simple and reliable queues based on Redis",
     "license": "MIT",
     "authors": [
